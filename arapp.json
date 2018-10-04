@@ -1,0 +1,12 @@
+{
+  "appName": "minime-factory.aragonpm.eth",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "name": "Allowed to create clones",
+      "id": "CREATE_CLONE_ROLE",
+      "params": []
+    }
+  ],
+  "path": "contracts/MiniMeTokenFactory.sol"
+}
