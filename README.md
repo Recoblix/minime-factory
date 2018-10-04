@@ -6,3 +6,5 @@ This, along with the [minime app](https://github.com/Recoblix/minime-app) is a c
 - Permissions for various aspects of the token like create and destroy to be handeled independently from each other using Aragon's permission manager
 - All clone tokens are implemented as proxy contracts reducing gas costs
 - As Aragon Apps, these can be included in kits on the deployment of new Smart Organizations
+
+This code is not well tested and currently a draft.
