@@ -1,10 +1,8 @@
 {
-  "name": "Counter",
-  "description": "An application for Aragon",
+  "name": "Minime Factory",
+  "description": "A factory for creating copies of minime tokens",
   "icons": [{
     "src": "/dist/images/icon.png",
     "sizes": "22x22"
-  }],
-  "start_url": "/dist/index.html",
-  "script": "/dist/script.js"
+  }]
 }

@@ -1,6 +1,6 @@
 {
   "appName": "minime-factory.aragonpm.eth",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "roles": [
     {
       "name": "Allowed to create clones",

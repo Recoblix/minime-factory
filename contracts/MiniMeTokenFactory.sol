@@ -92,7 +92,7 @@ contract MiniMeTokenFactory is AragonApp, APMNamehash {
         tokens[newToken] = true;
 
         newToken.changeController(_sender);
-        return newToken;
+        return MiniMeToken(newToken);
     }
 
     function changeDefaultManager(address _defaultManager){
